@@ -1,0 +1,36 @@
+main{
+    margin:2rm;
+    padding:32px;
+    color:black;
+    background:bisque;
+    border:solid,color(prophoto-rgb red green blue)
+
+}
+h1,h2,h3{
+    font-size:3rm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+li{
+    list-style:lower-roman ;
+    text-decoration: underline;
+    list-style-position: outside;
+} 
+
+
+h1{
+    padding:34px;
+    margin:12px;
+   background:rgb(164, 175, 102);
+   color:orange;
+   
+}
+a{
+    color:hotpink;
+
+}
+<a><hover>{
+    color:blue:
+
+
+}

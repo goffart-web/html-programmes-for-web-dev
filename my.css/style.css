@@ -1,0 +1,7 @@
+
+table, tr,th,td, caption{
+    border:1xp solid #eee,
+    front-familly: 'courier new', courier, monospace;
+    border-collapse:collapse
+    pending: 0,5rem;
+}
