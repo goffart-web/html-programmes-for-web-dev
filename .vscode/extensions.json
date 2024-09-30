@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "thorerik.hacker-theme"
+        "thorerik.hacker-theme",
+        "tabnine.tabnine-vscode"
     ]
 }
